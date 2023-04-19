@@ -9,7 +9,7 @@ Currently reside in Kitchener, Ontario, Canada 🇨🇦
 - [Notes Keeper](https://react-notes-keeper.herokuapp.com/) - simple notes editing app (MERN)
 - [Fetch with Infinite Scroll](https://github.com/MakhmudAliev/react-games-app) - fetch games, infinite scroll, filter, sort, search, css-grid
  -->
-## 🛠 Here is my Tech Stack   
+## 🛠 My Tech Stack includes
 - HTML5 
 - CSS / SASS
 - JavaScript (ES6)
