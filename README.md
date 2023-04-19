@@ -10,11 +10,14 @@ Currently reside in Kitchener, Ontario, Canada 🇨🇦
 - [Fetch with Infinite Scroll](https://github.com/MakhmudAliev/react-games-app) - fetch games, infinite scroll, filter, sort, search, css-grid -->
 
 ## 🛠 My Tech Stack includes   
-- HTML / CSS / SASS
-- React, JavaScript / Typescript
+- HTML / CSS / SASS / Bootstrap / TailwindCSS
+- React / Next.js / JavaScript / Typescript
 - Redux / Redux Toolkit / Redux-thunk / Redux Saga
-- PotgreSQL / Sequelize / Prisma
+- GraphQL / Apollo Server
 - Node.JS / Express
+- Jest / Cypress 
+- PotgreSQL / Sequelize / Prisma / MongoDB / Mongoose
+- AWS Cloud Services
 
 ## 📫 Contact me
 - olga.a.alieva@gmail.com 
