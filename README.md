@@ -1,7 +1,7 @@
 # Hi there, my name is Olga Alieva! 👋
 
 I am passionate about web-development and tech.
-Currently reside in Kitchener, Ontario, Canada 🇨🇦
+<!-- Currently reside in Kitchener, Ontario, Canada 🇨🇦 -->
 <!-- 
 ## My projects:
 - [Ride'n'Shine](https://ride-n-shine.herokuapp.com) - carpooling app (MERN + TypeScript)
