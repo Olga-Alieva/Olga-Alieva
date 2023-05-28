@@ -1,13 +1,11 @@
-# Hi there, my name is Olga Alieva! 👋
+# 👋 Hi, my name is Olga Alieva!
 
-I am passionate about web-development and tech.
-<!-- Currently reside in Kitchener, Ontario, Canada 🇨🇦 -->
-<!-- 
-## My projects:
-- [Ride'n'Shine](https://ride-n-shine.herokuapp.com) - carpooling app (MERN + TypeScript)
-- [Trello-like Task Manager](https://trello-react-redux.herokuapp.com) - Drag and drop task manager (MERN + TypeScript)
-- [Notes Keeper](https://react-notes-keeper.herokuapp.com/) - simple notes editing app (MERN)
-- [Fetch with Infinite Scroll](https://github.com/MakhmudAliev/react-games-app) - fetch games, infinite scroll, filter, sort, search, css-grid -->
+I am passionate about web-development and tech. Currently reside in Kitchener, Ontario, Canada 🇨🇦
+
+## 👩‍💻 My projects:
+- [Easy Finance](https://github.com/Olga-Alieva/easy-finance) - full stack personal finance tracking app (PERN + TypeScript)
+- [Data Visualisation Dashboar](https://github.com/Olga-Alieva/data-visualization) - single page app (React, TypeScript)
+- [Multiple files upload simulation](https://github.com/Olga-Alieva/upload-files-react) - front-end application 
 
 ## 🛠 My Tech Stack includes   
 - HTML / CSS / SASS / Bootstrap / TailwindCSS
