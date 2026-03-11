@@ -16,7 +16,3 @@ I am passionate about web-development and tech. Currently reside in Kitchener, O
 - Jest / Cypress 
 - PotgreSQL / Sequelize / Prisma / MongoDB / Mongoose
 - AWS Cloud Services
-
-## 📫 Contact me
-- olga.a.alieva@gmail.com 
-- +1-519-722-9301
